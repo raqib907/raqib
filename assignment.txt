@@ -1,0 +1,4 @@
+The objective behind the feasibility study is to create the reasons for developing the software that is acceptable to established standards.
+
+Again, A Feasibility study is simple an assessment of practicality of a proposed  project plan or method. This is done by analysing technical, economical, legal, operational and time feasibility factor. 
+Feasibility Study is very important for SDLC model
